@@ -1,0 +1,12 @@
+[
+    {
+        "name": "splender",
+        "price": "40000",
+        "color":"blue"
+    },
+    {
+        "name": "pulser",
+        "price": "50000",
+        "color":"gray"
+    }
+]
